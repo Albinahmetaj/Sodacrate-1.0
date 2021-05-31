@@ -1,0 +1,13 @@
+c:\users\primetec\documents\visual studio 2015\Projects\sodaCrateProject\sodaCrateProject\bin\Debug\sodaCrateProject.exe.config
+c:\users\primetec\documents\visual studio 2015\Projects\sodaCrateProject\sodaCrateProject\bin\Debug\sodaCrateProject.exe
+c:\users\primetec\documents\visual studio 2015\Projects\sodaCrateProject\sodaCrateProject\bin\Debug\sodaCrateProject.pdb
+c:\users\primetec\documents\visual studio 2015\Projects\sodaCrateProject\sodaCrateProject\obj\Debug\sodaCrateProject.csprojResolveAssemblyReference.cache
+c:\users\primetec\documents\visual studio 2015\Projects\sodaCrateProject\sodaCrateProject\obj\Debug\sodaCrateProject.exe
+c:\users\primetec\documents\visual studio 2015\Projects\sodaCrateProject\sodaCrateProject\obj\Debug\sodaCrateProject.pdb
+C:\Users\Albin\Desktop\sodaCrateProject\sodaCrateProject\bin\Debug\sodaCrateProject.exe.config
+C:\Users\Albin\Desktop\sodaCrateProject\sodaCrateProject\bin\Debug\sodaCrateProject.exe
+C:\Users\Albin\Desktop\sodaCrateProject\sodaCrateProject\bin\Debug\sodaCrateProject.pdb
+C:\Users\Albin\Desktop\sodaCrateProject\sodaCrateProject\obj\Debug\sodaCrateProject.csprojAssemblyReference.cache
+C:\Users\Albin\Desktop\sodaCrateProject\sodaCrateProject\obj\Debug\sodaCrateProject.csproj.CoreCompileInputs.cache
+C:\Users\Albin\Desktop\sodaCrateProject\sodaCrateProject\obj\Debug\sodaCrateProject.exe
+C:\Users\Albin\Desktop\sodaCrateProject\sodaCrateProject\obj\Debug\sodaCrateProject.pdb
